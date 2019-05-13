@@ -1,0 +1,21 @@
+.DS\_Store
+
+# Maven
+target/
+*.ser
+*.ec
+
+# IntelliJ Idea
+.idea/
+out/
+*.ipr
+*.iws
+*.swp
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
